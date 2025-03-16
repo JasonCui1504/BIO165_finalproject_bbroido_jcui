@@ -34,5 +34,5 @@ Data:
       - FearConditioned_Genes.csv (Fear Conditioned)
   
 Code:
-- data_analysis_structuring.ipynb: To segment the raw dataset into the relevant samples for each of the 4 fear conditions. Also transposes the data to put genes as columns and samples as rows.
+- data_analysis_structuring.ipynb: To segment the raw dataset into the relevant samples for each of the 4 conditions. Also transposes the data to put genes as columns and samples as rows.
 - data_visualization.ipynb: Code to run differential gene analysis, and create volcano plots and violin plot
